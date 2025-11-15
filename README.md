@@ -204,7 +204,3 @@ Proje geliştirme sürecinde sorularınız için issue açabilirsiniz.
 **Not:** Bu uygulama Yelp API'sini kullanmaktadır. API kullanım limitleri ve şartları için [Yelp API Dokümantasyonu](https://www.yelp.com/developers/documentation/v3)'na bakınız.
 
 =======
-
-# NativeRestoran
-
-YelpAPI ile restoran bilgilerini çekip filtreleme yapmak
