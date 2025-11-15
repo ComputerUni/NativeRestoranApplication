@@ -129,10 +129,12 @@ Aynı dosyada `limit` parametresini değiştirerek sonuç sayısını ayarlayabi
 ## 🚀 Kullanım
 
 1. **Arama Yapma:**
+
    - Ana ekranda arama çubuğuna restoran adı veya türü yazın (örn: "Kebap", "Pizza", "Sushi")
    - Enter tuşuna basın veya arama işlemini tamamlayın
 
 2. **Sonuçları Görüntüleme:**
+
    - Sonuçlar fiyat kategorilerine göre otomatik olarak gruplandırılır:
      - **Ucuz Restoranlar** (₺)
      - **Uygun Restoranlar** (₺₺)
@@ -176,9 +178,11 @@ Restoran/
 ## 📱 Ekranlar
 
 ### SearchScreen
+
 Ana arama ekranı. Kullanıcılar burada restoran arayabilir ve sonuçları fiyat kategorilerine göre görüntüleyebilir.
 
 ### ResultsShowScreen
+
 Restoran detay ekranı. Seçilen restoranın detaylı bilgileri burada gösterilir.
 
 ## 🔒 Güvenlik Notları
@@ -199,3 +203,8 @@ Proje geliştirme sürecinde sorularınız için issue açabilirsiniz.
 
 **Not:** Bu uygulama Yelp API'sini kullanmaktadır. API kullanım limitleri ve şartları için [Yelp API Dokümantasyonu](https://www.yelp.com/developers/documentation/v3)'na bakınız.
 
+=======
+
+# NativeRestoran
+
+YelpAPI ile restoran bilgilerini çekip filtreleme yapmak
